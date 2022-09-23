@@ -1,0 +1,14 @@
+{
+  "name": "costco16035",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "# hello",
+  "keywords": [
+    "# hello"
+  ],
+  "repository": "https://github.com/williamlmabe/costco16035",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
